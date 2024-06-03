@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Just for scratch sample PoC</description>
+   <name>TC Login by Record</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a5a30cc4-4d94-452f-a184-b7fe25009749</testCaseGuid>
+</TestCaseEntity>

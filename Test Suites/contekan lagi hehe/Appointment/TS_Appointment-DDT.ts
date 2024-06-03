@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Appointment-DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2a9a9126-4de2-4f62-90fb-a4c67884a1f2</testSuiteGuid>
+   <testCaseLink>
+      <guid>a37288db-9232-4099-ad5b-2e3e737e43dd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Contekan/TC Manual/Scenario/Appointment/Appointment Positive Flow-DDT Test Suite</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>24f36e91-b802-40a0-86b2-f9efe6b3b0fb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/AppointmentData/AppointmentData-Excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>24f36e91-b802-40a0-86b2-f9efe6b3b0fb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>facility</value>
+         <variableId>addc1115-bb33-4b5d-a214-423ca782105f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24f36e91-b802-40a0-86b2-f9efe6b3b0fb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>hospital_readmission</value>
+         <variableId>2069dd69-634c-466f-bd2f-a503fab11b19</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24f36e91-b802-40a0-86b2-f9efe6b3b0fb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>healthcare_program</value>
+         <variableId>dc0514e7-ca90-4f0a-a543-21112d808461</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24f36e91-b802-40a0-86b2-f9efe6b3b0fb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>visit_date</value>
+         <variableId>0ff95eaa-7b03-40af-a776-d64b485456df</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24f36e91-b802-40a0-86b2-f9efe6b3b0fb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>comment</value>
+         <variableId>ebde302f-f2e7-4c55-a3b9-732d2fa99263</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

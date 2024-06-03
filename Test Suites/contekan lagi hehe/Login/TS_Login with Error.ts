@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Login with Error</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>2</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>9470dfc8-0f80-4cae-a44f-5a7b57c112e9</testSuiteGuid>
+   <testCaseLink>
+      <guid>03a5338e-a967-4942-87d4-f90080705be6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Contekan/TC Manual/Scenario/Login/Login Positive Flow-Single</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5645d16e-d2d6-440a-9622-1c93ee72f12e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e72c9601-c116-49b9-b949-c58c8a5b7582</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>76c6041b-da76-40c5-a3e0-3d53772c9c54</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Contekan/TC Failed and Error Test Case/Error-Login Flow-Single</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6470ebd6-a921-4c26-8cf0-3e38bdc3a184</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d82cbdfb-a0e3-45af-ab03-039ac394c9a9</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

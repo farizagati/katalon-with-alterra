@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Login-DDT</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>a93655df-e3b9-48b8-965d-73bd010e9ea7</testSuiteGuid>
+   <testCaseLink>
+      <guid>843543c0-58ae-4a27-a10b-265ee17f780b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Contekan/TC Manual/Scenario/Login/Login Positive Flow-DDT-TestSuite</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ccce1733-ad93-4428-9ddf-d032163d8d1a</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/LoginData/LoginData-Excel</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ccce1733-ad93-4428-9ddf-d032163d8d1a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>username</value>
+         <variableId>2014411a-4b3c-4c49-bbde-c48112101e75</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ccce1733-ad93-4428-9ddf-d032163d8d1a</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>079f3ecc-1b77-4c88-852a-570f8b029419</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

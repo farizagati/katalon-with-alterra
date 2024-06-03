@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Positive Flow-DDT-TestCase(ForLoop)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c0e0098f-5a4e-4fc2-b53f-2890b2ff8782</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b37bdb46-dbb9-448e-a9da-2848a30ddde6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>54d1c4db-b305-4d39-b450-d82f519c9aa0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>b37bdb46-dbb9-448e-a9da-2848a30ddde6</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'ThisIsNotAPassword'</defaultValue>
+      <description></description>
+      <id>54d1c4db-b305-4d39-b450-d82f519c9aa0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

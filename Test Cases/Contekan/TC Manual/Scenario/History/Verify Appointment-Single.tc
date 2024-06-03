@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify Appointment-Single</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>381e5aaf-bb6a-484e-8cfa-4adc9bf95700</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f1d877b5-6a57-45d5-aae5-1ef7a66b940e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dc04cbe8-d55d-410a-9c23-1c944b132b3f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>044fc269-8ed5-49cf-8f99-8317efef2e89</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6fb47d88-659d-4b60-97d5-298ce07a49d9</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92100f35-c214-4f33-913c-fd43cb0eef2c</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Tokyo CURA Healthcare Center'</defaultValue>
+      <description></description>
+      <id>f1d877b5-6a57-45d5-aae5-1ef7a66b940e</id>
+      <masked>false</masked>
+      <name>facility</name>
+   </variable>
+   <variable>
+      <defaultValue>true</defaultValue>
+      <description></description>
+      <id>dc04cbe8-d55d-410a-9c23-1c944b132b3f</id>
+      <masked>false</masked>
+      <name>hospital_readmission</name>
+   </variable>
+   <variable>
+      <defaultValue>'None'</defaultValue>
+      <description></description>
+      <id>044fc269-8ed5-49cf-8f99-8317efef2e89</id>
+      <masked>false</masked>
+      <name>healthcare_program</name>
+   </variable>
+   <variable>
+      <defaultValue>'31/01/2050'</defaultValue>
+      <description></description>
+      <id>6fb47d88-659d-4b60-97d5-298ce07a49d9</id>
+      <masked>false</masked>
+      <name>visit_date</name>
+   </variable>
+   <variable>
+      <defaultValue>'This is my comment.'</defaultValue>
+      <description></description>
+      <id>92100f35-c214-4f33-913c-fd43cb0eef2c</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>open browser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7a5f971-8676-49b5-a75c-84735536d703</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>76c8ffb3-3bdc-4997-b447-7b9f3ff158fa</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.url</defaultValue>
+      <description></description>
+      <id>76c8ffb3-3bdc-4997-b447-7b9f3ff158fa</id>
+      <masked>false</masked>
+      <name>variableURL</name>
+   </variable>
+</TestCaseEntity>
